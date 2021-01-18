@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kris57
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xn--i7ja2j1az0e2acs4ke5wkc3056eujpa320ab9clrg9uat02j2r6hiwze.tk
+  * I am kris57 (https://keybase.io/kris57) on keybase.
+  * I have a public key ASCCRFtGhDDlGEu8mG66E0RWpNkzRuR1O1ipmW6oMafiRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "host": "keybase.io",
+      "kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "uid": "54c49edd6a2a863b78c0c4fe99afab19",
+      "username": "kris57"
+    },
+    "merkle_root": {
+      "ctime": 1610959804,
+      "hash": "f4583851d43c315808808afae9e8898fbaac18e20443110e1f2e90e382eb2cbdaed81f9ebbbfaaba12725935819dd0ae34e1b5f11367d10c1a4a378196733e5b",
+      "hash_meta": "5102bfaa1339188de0b1494b1d1c6b119a1c84166cf863cbba6a6e802890d974",
+      "seqno": 18814888
+    },
+    "service": {
+      "entropy": "9tpN64RHC8YB5qcPEl+Kjkbp",
+      "hostname": "xn--i7ja2j1az0e2acs4ke5wkc3056eujpa320ab9clrg9uat02j2r6hiwze.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610959808,
+  "expire_in": 504576000,
+  "prev": "a3e7c266fcacaa366283ff9b9da1ca879f7d53f7f88c6eb6fcc4cb62f17270b1",
+  "seqno": 134,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggkRbRoQw5RhLvJhuuhNEVqTZM0bkdTtYqZluqDGn4kYKp3BheWxvYWTES5cCzIbEIKPnwmb8rKo2YoP/m52hyoeffVP3+IxutvzEy2LxcnCxxCB7uyDJX8EoBIcapCJhzTO/9cEG28csTryHPMJKVb9bZgIBwqNzaWfEQAztNL/E75F00fJxrPfcti7oq1J1N95DZkkonfyb075kYG/2rG3FLhkuUrg4TUKqSyNYaNOLIqq4aAHeGkym8wWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCR7va/dmQ/zFBt8bfb6BoEEokopaasHe+2q1MN1PzB4KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kris57
+
+==================================================================
